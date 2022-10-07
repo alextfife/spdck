@@ -21,8 +21,8 @@ Found any problems or have suggestions? Go ahead and open an [issue](https://git
 If you want to use git to get the plugin, you can use the following commands.<br>
 **ATTENTION**: Installation via the PluginLoader store is recommended.<br>
 The branch of the plugin can be selected by cloning with the `-b` parameter:<br>
-**Stable:** `git clone -b main https://github.com/Wolvan/spdck.git /home/deck/homebrew/plugins/spdck`<br>
-**Development:** `git clone -b dev https://github.com/Wolvan/spdck.git /home/deck/homebrew/plugins/spdck`
+**Stable:** `git clone -b main https://github.com/Wolvan/spdck.git ~/home/deck/homebrew/plugins/spdck`<br>
+**Development:** `git clone -b dev https://github.com/Wolvan/spdck.git ~/home/deck/homebrew/plugins/spdck`
 
 ## Issues
 - Steamdeck UI sometimes crashes to blackscreen when closing in-built browser. Steam issue? Rebooting the device fixes this.
